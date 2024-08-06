@@ -22,7 +22,7 @@ Clone o repositório ou baixe o código fonte:
 
 bash
 **Copiar código**
-git clone https://github.com/DAIANEFRAZAO92/gerador-numeros-loteria.git
+git clone https://github.com/DAIANEFRAZAO92/Aprendendo-Python------Gerador-de-numeros-Mega-sena-e-Lotofacil.git
 cd gerador-numeros-loteria
 Execute o arquivo Python:
 
